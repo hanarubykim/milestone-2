@@ -1,0 +1,14 @@
+---
+title: "milestone 2"
+output: html_document
+---
+
+Repo Link: https://github.com/hanarubykim/milestone-2.git
+
+Project #1: INTERNATIONAL JUDGING BIASES IN ICE DANCE OVER THE 2017-2018 SEASON (https://julia-blank.shinyapps.io/internationaljudgingbiasinIceDance2017-18/)
+
+A pro of this project is the plot she used to highlight how much higher judges tended to score their own countries in relations to other countries. By visually distinguishing the groups that the judges shared a background with, it was easy to see how, on average, their own country's pairs tended to get some of the highest scores given by them. As for the cons, in her analysis of the ice judges' scoring data, she outlines the mathematical significance behind the disparity in scores by judges for their own nation's skaters versus other nations. However, I would have appreciated her translating the difference in layman's terms--that is, what is the average point difference for judges? (As opposed to merely stating it in terms of confidence intervals, which may not be as easily understood. In addition, her argument may have been made more convincing if she had incorporated data over multiple years/competitions as opposed to a singular one.
+
+Project #2: kanye omaRi west (https://github.com/dashchin/Gov-50-Final-Project)
+
+The animated graphics of this project made the content visually engaging and interesting. In addition, by examining a multitude of factors, his analysis seems to be very thorough in its consideration of the different factors affecting the popularity of certain songs. A con of this project was the lack of appropriate visual justification at times. For instance, in his analysis of "Are Songs Getting Louder?" he states that from the graph "there seems to be an upward trend"--as it is a scatterplot, it would have been appropriate to include a trend line. Furthermore, he could have calculated the significance of the trend line to provide more factual basis to the claims he was arguing. In addition, he seems to gloss over a significant part of the upward tick in streams: the ever increasing popularity of streaming services. Without addressing this, his project seems to hold a little less validity than it would have if he had addressed this glaring aspect of an increase in streams.
